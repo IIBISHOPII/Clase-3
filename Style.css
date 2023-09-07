@@ -1,0 +1,41 @@
+h1 {
+  color: red;
+  font-size: 40px;
+  font-style: oblique;
+  padding-left: 70px;
+  margin-bottom: 120px;
+  letter-spacing: 20px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: #e30e0e;
+}
+  li a {
+    display: block;
+    color: #000;
+    padding: 8px 0 8px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #555;
+    color: red;
+}
+h2{
+  color: aqua;
+  background-color: #000;
+}
+h3{
+  color: bisque;
+  background-color: blue;
+}
+p{
+  color: blueviolet;
+  background-color: black;
+}
+footer{
+  background-image:url(https://miro.medium.com/v2/resize:fit:1400/format:webp/0*ZvY5v8__NV81eaJa.png);
+}
